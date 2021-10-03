@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="javascript/script.js"></script>
+    <link rel="stylesheet" href='css/styles.css'>
+    <title>Eva</title>
+</head>
+<body>
+    <div id="robot">
+        <div id="head">
+            <div id="display-head">
+
+                <div></div>
+                <div id="eye-left" class="eyes"></div>
+                <div id="eye-right" class="eyes"></div>
+                <div></div>
+            </div>
+    </div>
+
+        <div id="body">
+            <div id="arm-left" class="arms"></div>
+            <div id="chest"></div>
+            <div id="arm-right" class="arms"></div>
+        </div>
+
+        <script>
+            setTimeout(()=>{
+                powerOn();
+            }, 2000);
+            setTimeout(()=>{
+                powerOff();
+            }, 20000);
+
+        </script>
+</body>
+</html>
