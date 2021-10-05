@@ -1,5 +1,7 @@
 # Eve
 
 
-[![Everything Is AWESOME](https://img.youtube.com/vi/xpFyRnbXmCY/0.jpg)](https://www.youtube.com/watch?v=xpFyRnbXmCY "Everything Is AWESOME")
+
+[![Everything Is AWESOME](https://i.imgur.com/jGL0oEM.png)](https://youtu.be/xpFyRnbXmCY "Everything Is AWESOME")
+
 
